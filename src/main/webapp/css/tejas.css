@@ -1,0 +1,84 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+}
+
+.whatsapp{
+    top:90vh;
+    left: 92vw;
+      /* position: absolute; */
+    position: fixed;
+  }
+
+
+  #startup{
+    font-family: 'Nosifer', cursive;
+font-family: 'Poppins', sans-serif;
+  }
+
+  .whatsapp-logo{
+    position:fixed;
+    height: 100px;
+    width: 100px;
+    bottom: 20px;
+    right: 0px;
+
+    z-index: 3;
+  }
+
+  .box1{
+    box-shadow: 1px 3px 18px 20px rgb(0 0 0 / 30%);
+    background-color:#0dcaf000;
+    border: 5px solid rgb(0, 253, 203);
+    border-radius: 20px;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+    
+  }
+
+  .box1:hover{
+
+    box-shadow: 1px 3px 18px 20px rgb(0, 255, 255);
+    background-color:#0dcaf000;
+    border: 5px solid rgb(34, 108, 255);
+    border-radius: 20px;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+  }
+
+.buttoncolor:hover{
+
+  color: deeppink;
+  font-size: 30px;
+}  
+
+
+.buttoncolor2:hover{
+
+  font-size: 25px;
+}
+
+.buttoncolor3:hover{
+
+  font-size: 35px;
+}
+
+.buttoncolor4:hover{
+
+  font-size: 45px;
+}
+
+.progressdiv:hover{
+
+  color: deeppink;
+  font-size: 30px;
+}
